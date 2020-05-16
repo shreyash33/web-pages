@@ -1,0 +1,42 @@
+#header{
+	text-align: center;
+}
+
+#body{
+	background-color: orange;
+}
+
+#form table tr td{
+	padding-left: 80px;
+	padding-top: 30px;
+}
+#nav ul{
+	list-style-type: none;
+	background-color: black; 
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#nav ul li{
+	display: inline;
+	padding-left: 20px;
+	padding: 5px 5px 5px 5px;
+}
+
+#nav ul li a{
+	text-decoration: none;
+	color: white;
+}
+#nav ul li a:hover{
+	background-color: grey;
+}
+
+#btn{
+	margin: 50px 0px 0px 250px;
+	padding: 10px 10px 10px 10px;
+}
+
+#fn,#ln,#Pass,#cont,#email,#dob,#per,#b,#btn {
+	border-radius: 25px;
+  
+}
